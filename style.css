@@ -1,0 +1,29 @@
+.container{
+	background-color: #FFF8DC;
+}
+.pic{
+	height: 100px;
+	width: 100px
+
+
+}
+.col-sm-2{
+	margin-top: 15px;
+}
+.col-sm-4{
+	margin-top: 35px;
+}
+
+.col-sm-3{
+	margin-top: 35px;
+}
+.slogan{
+       font-size: 25px;
+}
+.email{
+       font-size: 23px;
+       color: blue;
+}
+.tel{
+       font-size: 23px;
+}
